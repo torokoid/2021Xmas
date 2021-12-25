@@ -94,7 +94,7 @@ screen and (orientation: landscape) {
 <a href="20211224_004.jpg" data-lightbox="abc"><img src="20211224_004.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20211224_005.jpg" data-lightbox="abc"><img src="20211224_005.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20211224_006.jpg" data-lightbox="abc"><img src="20211224_006.jpg" alt="サンプル画像" width="900" /></a>
-  
+<a href="20211224_016.png" data-lightbox="abc"><img src="20211224_016.png" alt="サンプル画像" width="900" /></a>  
   
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </div>
